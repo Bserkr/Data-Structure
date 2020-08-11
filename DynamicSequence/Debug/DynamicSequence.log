@@ -1,0 +1,6 @@
+﻿  DinamicSequence.c
+e:\c\github\review\ds\dynamicsequence\dynamicsequence\dinamicsequence.c(17): warning C4013: “memcpy”未定义；假设外部返回 int
+  test.c
+e:\c\github\review\ds\dynamicsequence\dynamicsequence\test.c(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+  DynamicSequence.vcxproj -> E:\c\github\review\DS\DynamicSequence\Debug\DynamicSequence.exe
